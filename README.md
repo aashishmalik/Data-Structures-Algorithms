@@ -1,2 +1,2 @@
 # Data-Structures
-Practice DS ALGO in Java
+Practice Assignments in Data Structure and ALGO in Java.
